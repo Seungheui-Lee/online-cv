@@ -15,7 +15,7 @@ sidebar:
     email: tmdgml0386@gmail.com
     phone: +49 16095476634
     #website: blog.webjeda.com #do not add http://
-    linkedin: www.linkedin.com/in/seungheui-lee
+    linkedin: linkedin.com/in/seungheui-lee
     github: github.com/Seungheui-Lee
     #telegram: # add your nickname without '@' sign
     #gitlab:
@@ -56,14 +56,14 @@ sidebar:
 #      Second paragraph if required.
 experiences:
     - role: Senior researcher
-      time: Dec.2016 - Mar.2018
+      time: Dec. 2016 - Mar. 2018
       company: Service Intelligence Group, Mobile Communications Business at Samsung Electronics, South Korea
       details: |
         Work for the Bixby project, the artificial intelligence virtual assistant of Samsung smart phones
-          - Mar.2017 - Mar.2018 on leave for self-development
+          - Mar. 2017 - Mar. 2018 on leave for self-development
           #- Bullet point
     - role: Senior researcher
-      time: Mar.2015 - Nov.2016
+      time: Mar. 2015 - Nov. 2016
       company: Multimedia R&amp;D Group, Mobile Communications Business at Samsung Electronics, South Korea
       details: |
         Develop Smart-cropping engine with Deep Network
@@ -73,17 +73,17 @@ experiences:
 education:
     - degree: Ph.D. in Mathematical Sciences
       university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
-      time: Sep.2010 - Feb.2015
+      time: Sep. 2010 - Feb. 2015
       details: |
         Under advisor Gang-uk Hwang in the laboratory for next generation communication networks with the thesis title 'Performance analysis of wireless networks based on stochastic geometry'
     - degree: M.S. in Mathematical Sciences
       university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
-      time: Feb.2008 - Aug.2010
+      time: Feb. 2008 - Aug. 2010
       details: |
         Under advisor Gang-uk Hwang in the laboratory for next generation communication networks with the thesis title 'Performance analysis of a queueing system in wireless networks with adaptive modulation and coding'
     - degree: B.S. in Mathematical Sciences
       university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
-      time: Mar.2003 - Feb.2008
+      time: Mar. 2003 - Feb. 2008
       details: |
 
 publications:
