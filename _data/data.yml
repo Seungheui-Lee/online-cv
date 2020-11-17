@@ -7,7 +7,7 @@ sidebar:
     education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: 이승희
+    name: Seungheui Lee
     tagline: Applied Scientist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -15,8 +15,8 @@ sidebar:
     email: tmdgml0386@gmail.com
     phone: +49 16095476634
     #website: blog.webjeda.com #do not add http://
-    linkedin: tmdgml0386
-    github: Seungheui-Lee
+    linkedin: www.linkedin.com/in/seungheui-lee
+    github: github.com/Seungheui-Lee
     #telegram: # add your nickname without '@' sign
     #gitlab:
     #bitbucket:
@@ -55,41 +55,38 @@ sidebar:
 #      Donec quam felis, ultricies nec, pellentesque eu.
 #      Second paragraph if required.
 experiences:
-    title: 경력
-    - role: 책임연구원
-      time: 2016년 12월 - 2017년 3월
-      company: 삼성전자(무선사업부) 서비스 인텔리젼스 그룹
+    - role: Senior researcher
+      time: Dec.2016 - Mar.2018
+      company: Service Intelligence Group, Mobile Communications Business at Samsung Electronics, South Korea
       details: |
-        인공지능 가상비서 Bixby 개발
+        Work for the Bixby project, the artificial intelligence virtual assistant of Samsung smart phones
+          - Mar.2017 - Mar.2018 on leave for self-development
           #- Bullet point
-          #- Bullet point
-    - role: 책임연구원
-      time: 2015년 3월 - 2016년 11월
-      company: 삼성전자(무선사업부) 멀티미디어 연구개발 그룹
+    - role: Senior researcher
+      time: Mar.2015 - Nov.2016
+      company: Multimedia R&amp;D Group, Mobile Communications Business at Samsung Electronics, South Korea
       details: |
-        Deep Learning 기반 Smart-cropping 엔진 및  Image Processing, Computer Vision 관련 엔진 연구개발
+        Develop Smart-cropping engine with Deep Network
           #- Bullet point
           #- Bullet point
           
 education:
-    title: 학력
-    - degree: 수리과학과 박사
-      university: 한국과학기술원(KAIST)
-      time: 2010년 9월 - 2015년 2월
+    - degree: Ph.D. in Mathematical Sciences
+      university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
+      time: Sep.2010 - Feb.2015
       details: |
-        Stochastic Geometry를 기반으로 한 무선 네트워크의 성능 분석, 차세대통신망 연구실 (황강욱 교수님)
-    - degree: 수리과학과 석사
-      university: 한국과학기술원(KAIST)
-      time: 2008년 2월 - 2010년 8월
+        Under advisor Gang-uk Hwang in the laboratory for next generation communication networks with the thesis title 'Performance analysis of wireless networks based on stochastic geometry'
+    - degree: M.S. in Mathematical Sciences
+      university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
+      time: Feb.2008 - Aug.2010
       details: |
-        무선 통신망에서 적응형 변조 및 부호화 기법을 이용한 큐 성능 분석, 차세대통신망 연구실 (황강욱 교수님)
-    - degree: 응용수학과 학사
-      university: 한국과학기술원(KAIST)
-      time: 2003년 3월 - 2008년 2월
+        Under advisor Gang-uk Hwang in the laboratory for next generation communication networks with the thesis title 'Performance analysis of a queueing system in wireless networks with adaptive modulation and coding'
+    - degree: B.S. in Mathematical Sciences
+      university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
+      time: Mar.2003 - Feb.2008
       details: |
 
 publications:
-    title: 논문게제
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -98,17 +95,17 @@ publications:
       - title: A New Analytical Model for Optimized Cognitive Radio Networks Based on Stochastic Geometry
         link: "#"
         authors: S. Lee and G. Hwang
-        conference: Journal of Industrial and Management Optimization
-        time: 2017년 10월, Vol. 13, No. 4, pp. 1883-1899
+        conference: Journal of Industrial and Management Optimization, Vol. 13, No. 4, pp. 1883-1899
+        time: October 2017
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
         authors: S. Lee and G. Hwang
-        conference: International Journal of Distributed Sensor Networks
-        time: 2015년, Article ID 934671
+        conference: International Journal of Distributed Sensor Networks, Article ID 934671
+        time: 2015
 
 skills:
-    title: 기술 #&amp; Proficiency
+    title: Skills #&amp; Proficiency
 
     toolset:
       - name: Python, R, MATLAB, SQL, C, C++, JAVA
