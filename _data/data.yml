@@ -71,6 +71,7 @@ experiences:
           #- Bullet point
           
 education:
+    title: Education
     - degree: Ph.D. in Mathematical Sciences
       university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
       time: Sep. 2010 - Feb. 2015
@@ -87,6 +88,7 @@ education:
       details: |
 
 publications:
+    title: Publications
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -98,7 +100,7 @@ publications:
         conference: Journal of Industrial and Management Optimization, Vol. 13, No. 4, pp. 1883-1899
         time: October 2017
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Optimal Design for One-dimensional ALOHA Ad Hoc Networks based on Stochastic Geometry
         link: "#"
         authors: S. Lee and G. Hwang
         conference: International Journal of Distributed Sensor Networks, Article ID 934671
