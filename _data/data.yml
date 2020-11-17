@@ -71,7 +71,7 @@ experiences:
           #- Bullet point
           
 education:
-    title: Education
+    - title: Education
     - degree: Ph.D. in Mathematical Sciences
       university: Korea Advanced Institute of Science and Technology (KAIST), Daejeon, S.Korea
       time: Sep. 2010 - Feb. 2015
